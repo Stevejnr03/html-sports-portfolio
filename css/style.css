@@ -83,7 +83,7 @@
         rgba(0, 0, 0, 0.185),
         rgba(44, 14, 177, 0.007)
       ),
-      url("../img/sign-up.jpg");
+      url("/img/sign-up.jpg");
     background-size: cover;
     background-position:top;
 }
@@ -98,7 +98,7 @@
         rgba(0, 0, 0, 0.185),
         rgba(44, 14, 177, 0.007)
       ),
-      url("../img/login.jpg");
+      url("/img/login.jpg");
     background-size: cover;
     background-position:top;
 }
@@ -217,7 +217,7 @@
         rgba(0, 0, 0, 0.185),
         rgba(0, 0, 0, 0.034)
       ),
-      url("../img/hero-1.jpg");
+      url("/img/hero-1.jpg");
     background-size: cover;
     background-position:top;
     display: flex;
